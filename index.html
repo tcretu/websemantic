@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Project Interface</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <h1>Project Operations</h1>
+    <button id="scrapeJsonLd">Scrape JSON-LD</button>
+    <button id="insertRdf">Insert into RDF4J</button>
+    <button id="queryRdf">Query RDF4J</button>
+    <button id="deleteRdf">Delete in RDF4J</button>
+    <button id="clearRepo">Clear RDF DB</button>
+    <button id="insertJson">Insert into JSON Server</button>
+    <button id="queryJson">Query JSON Server</button>
+
+    <h2>Table 1: Article Names</h2>
+    <div id="results"></div>
+
+    <h2>Add New Record</h2>
+    <form id="newRecordForm">
+      <label for="articleDropdown">Article Name:</label>
+      <select id="articleDropdown" name="article" required>
+        <!-- Options will be populated dynamically -->
+      </select>
+      <br />
+      <label for="author">Author:</label>
+      <input type="text" id="author" name="author" required />
+      <br />
+      <label for="description">Description:</label>
+      <input type="text" id="description" name="description" required />
+      <br />
+    </form>
+
+    <h2>Table 2: RDF4J Records</h2>
+    <div id="rdfResults"></div>
+
+    <h2>Table 3: JSON Server Records</h2>
+    <div id="jsonResults"></div>
+  </body>
+</html>

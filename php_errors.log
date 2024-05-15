@@ -1,0 +1,299 @@
+[15-May-2024 15:49:25 Europe/Berlin] Script execution started
+[15-May-2024 15:49:25 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:25 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:25 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:28 Europe/Berlin] Script execution started
+[15-May-2024 15:49:28 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:28 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:28 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:28 Europe/Berlin] Script execution started
+[15-May-2024 15:49:28 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:28 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:28 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:28 Europe/Berlin] Script execution started
+[15-May-2024 15:49:28 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:28 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:28 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:28 Europe/Berlin] Script execution started
+[15-May-2024 15:49:28 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:28 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:28 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:28 Europe/Berlin] Script execution started
+[15-May-2024 15:49:28 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:28 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:28 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:29 Europe/Berlin] Script execution started
+[15-May-2024 15:49:29 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:29 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:29 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:29 Europe/Berlin] Script execution started
+[15-May-2024 15:49:29 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:29 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:29 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:29 Europe/Berlin] Script execution started
+[15-May-2024 15:49:29 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:29 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:29 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:29 Europe/Berlin] Script execution started
+[15-May-2024 15:49:29 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:29 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:29 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:30 Europe/Berlin] Script execution started
+[15-May-2024 15:49:30 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:30 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:30 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:30 Europe/Berlin] Script execution started
+[15-May-2024 15:49:30 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:30 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:30 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:30 Europe/Berlin] Script execution started
+[15-May-2024 15:49:30 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:30 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:30 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:30 Europe/Berlin] Script execution started
+[15-May-2024 15:49:30 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:30 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:30 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:31 Europe/Berlin] Script execution started
+[15-May-2024 15:49:31 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:31 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:31 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:31 Europe/Berlin] Script execution started
+[15-May-2024 15:49:31 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:31 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:31 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:31 Europe/Berlin] Script execution started
+[15-May-2024 15:49:31 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:31 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:31 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:31 Europe/Berlin] Script execution started
+[15-May-2024 15:49:31 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:31 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:31 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:31 Europe/Berlin] Script execution started
+[15-May-2024 15:49:31 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:31 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:31 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:31 Europe/Berlin] Script execution started
+[15-May-2024 15:49:31 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:31 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:31 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:31 Europe/Berlin] Script execution started
+[15-May-2024 15:49:31 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:31 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:31 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:32 Europe/Berlin] Script execution started
+[15-May-2024 15:49:32 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:32 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:32 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:32 Europe/Berlin] Script execution started
+[15-May-2024 15:49:32 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:32 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:32 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:32 Europe/Berlin] Script execution started
+[15-May-2024 15:49:32 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:32 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:32 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:32 Europe/Berlin] Script execution started
+[15-May-2024 15:49:32 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:32 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:32 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:32 Europe/Berlin] Script execution started
+[15-May-2024 15:49:32 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:32 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:32 Europe/Berlin] Script execution completed
+[15-May-2024 15:49:32 Europe/Berlin] Script execution started
+[15-May-2024 15:49:32 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article Title 1> ex:author "A" ;
+                                      ex:description "D" ;
+                                      ex:article_name "Article Title 1" .
+
+[15-May-2024 15:49:32 Europe/Berlin] HTTP status code 400. Response: MALFORMED DATA: IRI included an unencoded space: &#039;32&#039; [line 3]
+[15-May-2024 15:49:32 Europe/Berlin] Script execution completed
+[15-May-2024 15:51:12 Europe/Berlin] Script execution started
+[15-May-2024 15:51:12 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article+Title+1> ex:author "A1" ;
+                                             ex:description "D1" ;
+                                             ex:article_name "Article Title 1" .
+
+[15-May-2024 15:51:12 Europe/Berlin] Script execution completed
+[15-May-2024 15:51:15 Europe/Berlin] Script execution started
+[15-May-2024 15:51:15 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article+Title+1> ex:author "A1" ;
+                                             ex:description "D1" ;
+                                             ex:article_name "Article Title 1" .
+
+[15-May-2024 15:51:15 Europe/Berlin] Script execution completed
+[15-May-2024 15:51:15 Europe/Berlin] Script execution started
+[15-May-2024 15:51:15 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article+Title+1> ex:author "A1" ;
+                                             ex:description "D1" ;
+                                             ex:article_name "Article Title 1" .
+
+[15-May-2024 15:51:15 Europe/Berlin] Script execution completed
+[15-May-2024 15:51:15 Europe/Berlin] Script execution started
+[15-May-2024 15:51:15 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article+Title+1> ex:author "A1" ;
+                                             ex:description "D1" ;
+                                             ex:article_name "Article Title 1" .
+
+[15-May-2024 15:51:15 Europe/Berlin] Script execution completed
+[15-May-2024 15:51:16 Europe/Berlin] Script execution started
+[15-May-2024 15:51:16 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article+Title+1> ex:author "A1" ;
+                                             ex:description "D1" ;
+                                             ex:article_name "Article Title 1" .
+
+[15-May-2024 15:51:16 Europe/Berlin] Script execution completed
+[15-May-2024 15:51:16 Europe/Berlin] Script execution started
+[15-May-2024 15:51:16 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article+Title+1> ex:author "A1" ;
+                                             ex:description "D1" ;
+                                             ex:article_name "Article Title 1" .
+
+[15-May-2024 15:51:16 Europe/Berlin] Script execution completed
+[15-May-2024 15:51:34 Europe/Berlin] Script execution started
+[15-May-2024 15:51:34 Europe/Berlin] RDF Data: 
+@prefix ex: <http://example.org/> .
+<http://example.org/article/Article+Title+2> ex:author "A2" ;
+                                             ex:description "D2" ;
+                                             ex:article_name "Article Title 2" .
+
+[15-May-2024 15:51:34 Europe/Berlin] Script execution completed
